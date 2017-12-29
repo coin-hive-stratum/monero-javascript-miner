@@ -1,0 +1,1 @@
+# monero-javascript-miner
